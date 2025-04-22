@@ -1,6 +1,7 @@
 # Thesis Simulation Repository
 
-This GitHub repository was created for the thesis I am doing at KTH Royal Institute of Technology. 
+This GitHub repository was created for the thesis I am doing at KTH Royal Institute of Technology.
+The data uploaded here is from the RailSys simulations I have run.
 
 ## Alternatives (Infrastructure)
 - **Current Infrastructure**
