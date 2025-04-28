@@ -5,8 +5,10 @@ The data uploaded here is from the RailSys simulations I have run.
 
 ## Alternatives (Infrastructure)
 - **Current Infrastructure**
-- **Four-Track Station added to Odenplan**
 - **Four-track Station through the core**
+- **Four-Track Station added to Stockholm Odenplan**
+- **Four-Track Station added to Stockholms Södra**
+- **Four-Track Station added to Årstaberg**
 
 ## Scenarios
 
@@ -24,9 +26,9 @@ This scenario increases the frequency to 24 trains per hour. This scenario is th
 ### Scenario 3: 30 Trains per Hour
 The most intense scheduling scenario accommodates 30 trains per hour. This can be seen as a wish and a stress scenario.
 
-## Simulations
-The simulations include different punctuality values, specifically:
-- **RT3**: 3:59
-- **RT5**: 5:59
+## Simulation Results
+The simulation results include different punctuality values, specifically:
+- **RT +3**: 3:59
+- **RT +5**: 5:59
 
 Feel free to explore the repository to see the detailed outputs of these simulations. fix the text, like for the scenarios
