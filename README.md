@@ -28,7 +28,7 @@ The most intense scheduling scenario accommodates 30 trains per hour. This can b
 
 ## Simulation Results
 The simulation results include different punctuality values, specifically:
-- **RT +3**: 3:59
+- **RT +2**: 2:59
 - **RT +5**: 5:59
 
 Feel free to explore the repository to see the detailed outputs of these simulations. fix the text, like for the scenarios
